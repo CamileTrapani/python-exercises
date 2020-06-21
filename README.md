@@ -3,6 +3,10 @@
 Here I'm going to put some exercises and the resolution of them. 
 Fell free to make questions, to ask for help, to solve the problems...
 
+### Recommendation:
+
+- Use Jupyter Notebook
+
 ### Books and Link: 
 
 - A Practical Introduction to Python Programming. Brian Heinold Department of Mathematics and Computer Science Mount St. Mary’s University (2012).
