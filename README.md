@@ -10,3 +10,5 @@ Fell free to make questions, to ask for help, to solve the problems...
 - Python Tutorial, Release 3.7.0. Guido van Rossum and the Python development team. Python Software Foundation. (2018)
 
 - Python Programming Python Programming for Beginners. By Adam Stewart. (2016)
+
+- https://www.datascienceacademy.com.br/course?courseid=python-fundamentos
